@@ -40,7 +40,7 @@ const showCarrito = () => {
         carritoVacio.innerHTML = 
         `
         <div class="imagen-carrito-vacio">
-            <img src="../img/Family Values Shopping.png" alt="carrito vacio">
+            <img src="./img/Family Values Shopping.png" alt="carrito vacio">
         </div>
         <div class="info-carrito-vacio">
             <h3 class="Headline-3">Su canasta está vacía</h3>
