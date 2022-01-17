@@ -6,7 +6,7 @@
             "precio": 2500,
             "descuento": true,
             "porcentaje_descuento": 0.32,
-            "imagen":  "../img/productos/Limon.jpg"          
+            "imagen":  "./img/productos/Limon.jpg"          
         },
 
         {
@@ -15,7 +15,7 @@
             "precio": 3500,
             "descuento": true,
             "porcentaje_descuento": 0.3,
-            "imagen":  "../img/productos/Tomate.jpg"
+            "imagen":  "./img/productos/Tomate.jpg"
         },
 
         {
@@ -24,7 +24,7 @@
             "precio": 2500,
             "descuento": true,
             "porcentaje_descuento": 0.18,
-            "imagen":  "../img/productos/Aguacate.jpg"
+            "imagen":  "./img/productos/Aguacate.jpg"
         },
 
         {
@@ -33,7 +33,7 @@
             "precio": 2500,
             "descuento": true,
             "porcentaje_descuento": 0.16,
-            "imagen":  "../img/productos/Nopal.jpg"
+            "imagen":  "./img/productos/Nopal.jpg"
         },
 
         {
@@ -42,7 +42,7 @@
             "precio": 2500,
             "descuento": true,
             "porcentaje_descuento":  0.1,
-            "imagen": "../img/productos/Tomate-verde.jpg"
+            "imagen": "./img/productos/Tomate-verde.jpg"
         },
 
         {
@@ -51,7 +51,7 @@
             "precio": 4000,
             "descuento": false,
             "porcentaje_descuento":  0,
-            "imagen": "../img/productos/Cocacola-sin-azucar.jpg"
+            "imagen": "./img/productos/Cocacola-sin-azucar.jpg"
         },
 
         {
@@ -60,7 +60,7 @@
             "precio": 2400,
             "descuento": false,
             "porcentaje_descuento":  0,
-            "imagen": "../img/productos/Cocacola.jpg"
+            "imagen": "./img/productos/Cocacola.jpg"
         },
         
         {
@@ -69,7 +69,7 @@
             "precio": 1500,
             "descuento": true,
             "porcentaje_descuento":  0.1,
-            "imagen": "../img/productos/Naranja.jpg"
+            "imagen": "./img/productos/Naranja.jpg"
         },
 
         {
@@ -78,7 +78,7 @@
             "precio": 4100,
             "descuento": true,
             "porcentaje_descuento":  0.1,
-            "imagen": "../img/productos/Jitomate-Bola.jpg"
+            "imagen": "./img/productos/Jitomate-Bola.jpg"
         },
 
         {
@@ -87,7 +87,7 @@
             "precio": 7900,
             "descuento": true,
             "porcentaje_descuento":  0.19,
-            "imagen": "../img/productos/Manzana-Golden.jpg"
+            "imagen": "./img/productos/Manzana-Golden.jpg"
         },
 
         {
@@ -96,7 +96,7 @@
             "precio": 11900,
             "descuento": false,
             "porcentaje_descuento":  0,
-            "imagen": "../img/productos/Pechuga-de-pavo.jpg"
+            "imagen": "./img/productos/Pechuga-de-pavo.jpg"
         },
 
         {
@@ -105,7 +105,7 @@
             "precio": 2500,
             "descuento": false,
             "porcentaje_descuento":  0,
-            "imagen": "../img/productos/Pan-Bimbo.jpg"
+            "imagen": "./img/productos/Pan-Bimbo.jpg"
         },
 
         {
@@ -114,7 +114,7 @@
             "precio": 8000,
             "descuento": false,
             "porcentaje_descuento":  0,
-            "imagen": "../img/productos/Mc-Cormick-Mayonesa.jpg"
+            "imagen": "./img/productos/Mc-Cormick-Mayonesa.jpg"
         },
 
         {
@@ -123,7 +123,7 @@
             "precio": 7900,
             "descuento": false,
             "porcentaje_descuento":  0,
-            "imagen": "../img/productos/Colgate.jpg"
+            "imagen": "./img/productos/Colgate.jpg"
         },
 
         {
@@ -132,7 +132,7 @@
             "precio": 1000,
             "descuento": false,
             "porcentaje_descuento":  0,
-            "imagen": "../img/productos/Huevos.jpg"
+            "imagen": "./img/productos/Huevos.jpg"
         },
 
         {
@@ -141,7 +141,7 @@
             "precio": 11800,
             "descuento": false,
             "porcentaje_descuento":  0,
-            "imagen": "../img/productos/Fabuloso.jpg"
+            "imagen": "./img/productos/Fabuloso.jpg"
         }
     ]
 }
